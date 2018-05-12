@@ -1,0 +1,29 @@
+_repo: Everyday-Adventures_40919
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40919-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scoville, Samuel
+    birthdate: 1872
+    gutenberg_agent_id: '40894'
+    url: http://www.gutenberg.org/2009/agents/40894
+description: ''
+gutenberg_issued: '2012-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40919'
+  lccn: '20019518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural history'
+tableOfContents: Everyday adventures -- Zero birds -- Snow stories -- A runaway day
+  -- The raven's nest -- Hidden treasure -- Bird's-nesting -- The treasure hunt --
+  Orchid hunting -- The marsh dwellers -- The seven sleepers -- Dragon's blood.
+title: Everyday Adventures
+url: http://www.gutenberg.org/ebooks/40919
